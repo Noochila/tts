@@ -15,12 +15,12 @@ o install and run this codebase on your machine, please follow the steps below:
 
 1. Clone the repository to your local machine:
     ```
-    git clone https://github.com/noochila/DeepFake-Audio-Detection-MFCC.git
+    git clone https://github.com/noochila/tts.git
     ```
 
 2. Navigate to the project directory:
     ```
-    cd DeepFake-Audio-Detection-MFCC
+    cd tts
     ```
 
 3. Create and activate a virtual environment:
